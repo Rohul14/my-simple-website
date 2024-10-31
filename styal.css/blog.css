@@ -1,0 +1,9 @@
+div{
+    color:coral;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 6px solid purple;
+    box-shadow: 7px 5px 3px chocolate;
+    margin: 20px 10px  ;
+    border-radius: 4px;
+}
